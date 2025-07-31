@@ -1,3 +1,3 @@
 enum Constants {
-    static let tracklyticEndpoint = "http://localhost:4030/v1/event"
+    static let tracklyticEndpoint = "https://api.tracklytic.de/v1/event"
 } 
