@@ -1,9 +1,6 @@
 <div align="center">
     <h1>Tracklytic Swift</h1>
     <p>Track your project events and get insights.</p>
-    <a href="https://discord.gg/dY3pRxgWua"><img src="https://img.shields.io/discord/922560704454750245?color=%237289DA&label=Discord" alt="Discord"></a>
-    <a href="https://docs.tracklytic.com"><img src="https://img.shields.io/badge/Docs-Tracklytic" alt="Documentation"></a>
-    <br>
     <br>
 </div>
 
@@ -13,7 +10,7 @@
 ### Swift Package Manager
 
 - File > Swift Packages > Add Package Dependency
-- Add `https://github.com/Camji55/tracklytic-swift.git`
+- Add `https://github.com/scalerit/tracklytic-swift.git`
 - Select "Up to Next Major" with "1.0.0"
 
 ## Usage
