@@ -24,7 +24,7 @@ public class TracklyticClient {
     /// Construct a new Tracklytic instance
     /// - Parameters:
     /// - project: Your project slug
-    /// - token: Your API token. See docs.tracklytic.com for details
+    /// - token: Your API token. See docs.tracklytic.de for details
     public init(
         project: String,
         token: String
