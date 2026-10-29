@@ -178,6 +178,10 @@ Non-2xx responses throw `TracklyticHTTPError` with `statusCode`, raw `body`, and
 - `ActionComponent.action` is optional, allowing link components to omit it.
 - `track` remains a Boolean success operation; use `createEvent`/`createPipeline` to receive pipeline IDs.
 
+## Development
+
+GitLab is the development source of truth. Branches and version tags are automatically mirrored to the public GitHub repository.
+
 ## Verification
 
 ```sh
