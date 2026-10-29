@@ -4,7 +4,7 @@ Swift client for the current Tracklytic v1 API. Includes events, pipelines, inte
 
 ## Installation
 
-Add `https://git.scalerit.de/tracklytic/tracklytic-swift-sdk.git` as a Swift Package Manager dependency with version `2.0.0` or later, then import `Tracklytic`. Existing Combine event tracking supports iOS 13, macOS 10.15, tvOS 13, and watchOS 6. The async API requires iOS 15, macOS 12, tvOS 15, or watchOS 8.
+Add `https://github.com/scalerit/tracklytic-swift.git` as a Swift Package Manager dependency with version `2.0.0` or later, then import `Tracklytic`. Existing Combine event tracking supports iOS 13, macOS 10.15, tvOS 13, and watchOS 6. The async API requires iOS 15, macOS 12, tvOS 15, or watchOS 8.
 
 ## Client and authentication
 
