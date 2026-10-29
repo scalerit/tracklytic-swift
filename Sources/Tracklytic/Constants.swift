@@ -1,3 +1,5 @@
+import Foundation
+
 enum Constants {
-    static let tracklyticEndpoint = "https://api.tracklytic.de/v1/event"
-} 
+  static let baseURL = URL(string: "https://api.tracklytic.de/v1")!
+}
