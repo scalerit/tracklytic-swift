@@ -180,7 +180,7 @@ Non-2xx responses throw `TracklyticHTTPError` with `statusCode`, raw `body`, and
 
 ## Development
 
-GitLab is the development source of truth. Branches and version tags are automatically mirrored to the public GitHub repository.
+GitLab is the development source of truth. The main branch and version tags are automatically mirrored to the public GitHub repository.
 
 ## Verification
 
